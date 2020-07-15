@@ -1,6 +1,6 @@
-Map Collection v1.18.1 by Mikali
+Map Collection v1.19.0 by Mikali
 Created: 2004/11/14
-Updated: 2015/02/26
+Updated: 2020/07/15
 Homepage: http://isometricland.net
 Discussion: http://forums.relicnews.com/showthread.php?t=48818
 
@@ -127,6 +127,9 @@ CREDITS
 
 
 CHANGE LOG
+
+1.19.0
+• Sorted files into the correct folder structure.
 
 1.18.1
 • Appended "MapFunctions.lua" to the end of each level so they can be safely 
