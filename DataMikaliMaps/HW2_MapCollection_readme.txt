@@ -1,7 +1,9 @@
 Map Collection v1.19.0 by Mikali
 Created: 2004/11/14
-Updated: 2020/07/15
-Homepage: http://isometricland.net
+Updated: 2021/01/29
+Website: http://isometricland.net
+Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=2377212308
+GitHub: https://github.com/mjhorvath/Mikali-Maps-for-Homeworld-2-Classic
 Discussion: http://forums.relicnews.com/showthread.php?t=48818
 
 
@@ -16,9 +18,7 @@ functions.
 
 INSTALLATION
 
-Extract the contents of this archive into your 
-"Homeworld2\Data\leveldata\multiplayer\deathmatch" directory. You must have 
-also installed the Homeworld 2 v1.1 patch in order for these maps to work.
+To do.
 
 
 ================================================================================
@@ -129,7 +129,9 @@ CREDITS
 CHANGE LOG
 
 1.19.0
+• Steam release.
 • Sorted files into the correct folder structure.
+• Created config and preview images.
 
 1.18.1
 • Appended "MapFunctions.lua" to the end of each level so they can be safely 
